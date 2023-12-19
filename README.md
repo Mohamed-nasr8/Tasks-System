@@ -3,8 +3,8 @@
 ``.NET Core API Application with a Postgresql Database that allows users of the application to create tasks and set tasks``
 
 ### Stack and Technologies :
-- .NET 6 or 7 (Your Prefereable Choice)
-- Use PostgreSQL as Database
+- .NET 6
+-  PostgreSQL as Database
 - EntityFramework Core as ORM
 - JWT Authentication Scheme
 - Swagger / OpenAPI
